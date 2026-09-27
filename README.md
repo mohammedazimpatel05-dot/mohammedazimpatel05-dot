@@ -2,7 +2,7 @@
 
 BCA Student @ RCUB | Full-Stack Developer & DSA Practitioner
 
----
+
 
 ### 💻 Tech Stack & Capabilities
 
@@ -18,16 +18,12 @@ BCA Student @ RCUB | Full-Stack Developer & DSA Practitioner
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
 ### 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazimpatel05-dot&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Mohammadazim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazimpatel05-dot&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🌐 Connect With Me
 
