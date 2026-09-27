@@ -21,9 +21,8 @@ BCA Student @ RCUB | Full-Stack Developer & DSA Practitioner
 
 ### 📊 GitHub Stats & Metrics
 
-![Mohammadazim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-vector.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazimpatel05-dot&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🌐 Connect With Me
 
