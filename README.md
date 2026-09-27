@@ -18,11 +18,6 @@
 ### 📈 System Metrics & GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-vector.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-eight-vector.vercel.app/api/top-langs/?username=mohammedazimpatel05-dot&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammedazimpatel05-dot&theme=tokyonight&hide_border=true" width="96%" />
 </p>
 
