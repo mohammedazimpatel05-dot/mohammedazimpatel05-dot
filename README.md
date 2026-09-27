@@ -1,9 +1,5 @@
 Hi there 👋
 
-<p align="center">
-  <img src="file_00000000579482118bc42533.jpg" width="300" alt="Cyber Profile" />
-</p>
-
 ⚙️ Tech Stack & Capabilities
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,10 +17,6 @@ Hi there 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedazimpatel05-dot&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazimpatel05-dot&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedazimpatel05-dot&theme=tokyonight&hide_border=true" width="96%" />
 </p>
 
 <p align="center">
