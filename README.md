@@ -3,7 +3,7 @@
 - 🔭 **Role:** BCA Student @ RCUB | Full-Stack & Python Developer
 - 🎯 **Focus:** Building Scalable Web Apps & Exploring Cybersecurity
 - 📫 **Email:** [mohammedazimpatel05@gmail.com](mailto:mohammedazimpatel05@gmail.com)
-- 💼 **LinkedIn:** [Mohammad Azim Patel](https://www.linkedin.com/in/mohammedazim-patel-132437433)
+- 💼 **LinkedIn:** [Mohammad Azim Patel](https://www.linkedin.com/in/mohammad-azim-patel-132437433)
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedazim-patel-132437433">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mohammad-azim-patel-132437433">
+    <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
